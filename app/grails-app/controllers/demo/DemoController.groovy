@@ -1,5 +1,7 @@
 package demo
 
+import helper.ClassMarkedWithMagicNumber
+
 class DemoController {
 
     def index() {
